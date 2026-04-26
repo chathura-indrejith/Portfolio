@@ -24,7 +24,7 @@ a { text-decoration: none; color: inherit; }
   position: relative;
   top: 11;
   z-index: 999;
-  border-radius: 10px;
+  border-radius: 0px;
   background: linear-gradient(135deg, #9500ff 0%, #4e8bee 100%); 
   display: flex;
   align-items: center;
