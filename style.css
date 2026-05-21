@@ -22,7 +22,7 @@ a { text-decoration: none; color: inherit; }
 ============================================================ */
 .navbar {
   position: relative;
-  top: 11;
+  top: 11px;
   z-index: 999;
   /*border-radius: 0px;*/
   background: linear-gradient(135deg, #9500ff 0%, #4e8bee 100%); 
